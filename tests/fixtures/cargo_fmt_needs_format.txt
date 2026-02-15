@@ -1,0 +1,12 @@
+Diff in /home/user/project/src/main.rs at line 5:
+ fn main() {
+-    let x=1;
++    let x = 1;
+     println!("{}", x);
+ }
+
+Diff in /home/user/project/src/lib.rs at line 10:
+ pub fn add(a: i32, b: i32) -> i32 {
+-    a+b
++    a + b
+ }
